@@ -1,17 +1,13 @@
 ## Marissa Radensky
 
-Hi! I'm a second-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld) and [Zoran Popović](https://homes.cs.washington.edu/~zoran/). I am interested in human-AI interaction and explainable AI. More specifically, I am interested in how methods of transparency can be used to help users of intelligent systems understand when and when not to trust those systems. 
+Hi! I'm a second-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld) and [Zoran Popović](https://homes.cs.washington.edu/~zoran/). My research interests are in human-AI interaction and explainable AI. More specifically, I am interested in how methods of transparency can be used to help users of intelligent systems understand when and when not to trust those systems. 
 
-You can use the [editor on GitHub](https://github.com/mradensky/marissaradensky/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Header 1
 ## Header 2
