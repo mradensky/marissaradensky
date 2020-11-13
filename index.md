@@ -6,22 +6,17 @@ Email: radensky **at** cs **dot** washington **dot** edu
 
 # Publications
 • [PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations]()
-
- Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell and Brad A. Myers (UIST 2019)
+Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell and Brad A. Myers (UIST 2019)
 
 • [The Story in the Notebook:  Exploratory Data Science using a Literate Programming Tool]()
-
- Mary Beth Kery, **Marissa Radensky**, Mahima Arya, Bonnie E. John, and Brad A. Myers (CHI 2018)
+Mary Beth Kery, **Marissa Radensky**, Mahima Arya, Bonnie E. John, and Brad A. Myers (CHI 2018)
 
 # Posters and Workshops
 • [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations]()
+Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell and Brad A. Myers (IPA 2020 Workshop) 
 
- Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell and Brad A. Myers (IPA 2020 Workshop) 
-
-• (A Multi-Modal Approach to Concept Learning in Task Oriented Conversational Agents]()
-
- Toby Jia-Jun Li, **Marissa Radensky**, Tom M. Mitchell and Brad A. Myers (CHI 2019 Workshop) 
+• [A Multi-Modal Approach to Concept Learning in Task Oriented Conversational Agents]()
+Toby Jia-Jun Li, **Marissa Radensky**, Tom M. Mitchell and Brad A. Myers (CHI 2019 Workshop) 
 
 • [How End Users Express Conditionals in Programming by Demonstration for Mobile Apps]()
-
- **Marissa Radensky**, Toby Jia-Jun Li, and Brad A. Myers (VL/HCC 2018 Poster)
+**Marissa Radensky**, Toby Jia-Jun Li, and Brad A. Myers (VL/HCC 2018 Poster)
