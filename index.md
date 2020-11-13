@@ -1,6 +1,6 @@
 ## Marissa Radensky
 
-Hi! I'm a second-year computer science PhD student at the University of Washington interested in human-AI interaction and explainable AI. More specifically, I am interested in how we can use methods of transparency to help users of intelligent systems understand when and when not to trust those systems. 
+Hi! I'm a second-year computer science PhD student at the University of Washington interested in human-AI interaction and explainable AI. More specifically, I am interested in how methods of transparency can be used to help users of intelligent systems understand when and when not to trust those systems. 
 
 You can use the [editor on GitHub](https://github.com/mradensky/marissaradensky/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
