@@ -3,8 +3,9 @@ Hi! I'm a second-year computer science PhD student at the University of Washingt
 Email: radensky **at** cs **dot** washington **dot** edu
 
 [CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) 
-
 [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/)
+[Semantic Scholar](https://www.semanticscholar.org/author/40961666)
+[Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Publications
 • Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell and Brad A. Myers. PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations. Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST 2019). 
