@@ -2,7 +2,7 @@ Hi! I'm a second-year computer science PhD student at the University of Washingt
 
 Email: radensky **at** cs **dot** washington **dot** edu
 
-[CV]() 
+[CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/)
 
 ### Publications
 
