@@ -4,6 +4,9 @@ Email: radensky **at** cs **dot** washington **dot** edu
 
 [CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
+# Current Work
+• Investigating the role of local and global explanations in recommender systems
+
 # Publications
 • [PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations](https://toby.li/files/Li_Pumice_UIST19.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell and Brad A. Myers (UIST 2019)
