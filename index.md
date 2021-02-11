@@ -4,7 +4,7 @@ Email: radensky **at** cs **dot** washington **dot** edu
 
 [CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
-# Current Work
+# Currently
 • Investigating the role of local and global explanations in recommender systems
 
 # Publications
