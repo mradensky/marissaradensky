@@ -21,5 +21,5 @@ Email: radensky **at** cs **dot** washington **dot** edu
 • [A Multi-Modal Approach to Concept Learning in Task Oriented Conversational Agents](https://toby.li/files/MultiModalApproachToConceptLearning_Li.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Tom M. Mitchell and Brad A. Myers (CHI 2019 Workshop) 
 
-• [How End Users Express Conditionals in Programming by Demonstration for Mobile Apps](https://www.researchgate.net/profile/Toby_Li3/publication/328519253_How_End_Users_Express_Conditionals_in_Programming_by_Demonstration_for_Mobile_Apps/links/5c6ad099a6fdcc404ebac379/How-End-Users-Express-Conditionals-in-Programming-by-Demonstration-for-Mobile-Apps.pdf)
+• [How End Users Express Conditionals in Programming by Demonstration for Mobile Apps](https://par.nsf.gov/servlets/purl/10106731)
 <br /> **Marissa Radensky**, Toby Jia-Jun Li, and Brad A. Myers (VL/HCC 2018 Poster)
