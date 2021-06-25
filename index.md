@@ -1,11 +1,11 @@
-Hi! I'm a second-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld) and [Zoran Popović](https://homes.cs.washington.edu/~zoran/). My research interests are in human-AI interaction and explainable AI. More specifically, I am interested in how methods of transparency can be used to help users of intelligent systems understand when and when not to trust those systems. 
+Hi! I'm a second-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and explainable AI. More specifically, I am interested in applying methods of transparency to help people build and maintain appropriate trust of intelligent systems.
 
 Email: radensky **at** cs **dot** washington **dot** edu
 
 [CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Currently
-• Investigating the role of local and global explanations in recommender systems
+• Research intern with Microsoft's IoMT team
 
 # Publications
 • [PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations](https://toby.li/files/Li_Pumice_UIST19.pdf)
