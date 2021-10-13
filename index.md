@@ -5,7 +5,7 @@ Email: radensky **at** cs **dot** washington **dot** edu
 [CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Currently
-• Research intern with Microsoft's IoMT team
+• Research assistant at the University of Washington
 
 # Publications
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
@@ -17,7 +17,10 @@ Email: radensky **at** cs **dot** washington **dot** edu
 • [The Story in the Notebook:  Exploratory Data Science using a Literate Programming Tool](https://marybethkery.com/projects/Verdant/Kery-The-Story-in-the-Notebook-Exploratory-Data-Science-using-a-Literate-Programming-Tool.pdf)
 <br /> Mary Beth Kery, **Marissa Radensky**, Mahima Arya, Bonnie E. John, and Brad A. Myers (CHI 2018)
 
-# Posters and Workshops
+# Other Work
+• [Exploring The Role of Local and Global Explanations in Recommender Systems](https://arxiv.org/pdf/2109.13301.pdf)
+<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (arXiv 2021)
+
 • [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://arxiv.org/pdf/1909.00031.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell, and Brad A. Myers (IPA 2020 Workshop) 
 
