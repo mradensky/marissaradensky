@@ -2,7 +2,7 @@ Hi! I'm a third-year computer science PhD student at the University of Washingto
 
 Email: radensky **at** cs **dot** washington **dot** edu
 
-[CV](https://github.com/mradensky/research/raw/gh-pages/CVFinal.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
+[CV](https://github.com/mradensky/research/raw/gh-pages/CV2021.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Currently
 • Research assistant at the University of Washington
