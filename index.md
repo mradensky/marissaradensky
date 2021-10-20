@@ -18,7 +18,7 @@ Email: radensky **at** cs **dot** washington **dot** edu
 <br /> Mary Beth Kery, **Marissa Radensky**, Mahima Arya, Bonnie E. John, and Brad A. Myers (CHI 2018)
 
 # Other Work
-• [Exploring The Role of Local and Global Explanations in Recommender Systems](https://arxiv.org/pdf/2109.13301.pdf)
+• [Exploring the Role of Local and Global Explanations in Recommender Systems](https://arxiv.org/pdf/2109.13301.pdf)
 <br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (arXiv 2021)
 
 • [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://arxiv.org/pdf/1909.00031.pdf)
