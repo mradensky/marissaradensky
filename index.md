@@ -1,4 +1,4 @@
-Hi! I'm a third-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and explainable AI. More specifically, I am interested in applying methods of transparency to help people build and maintain appropriate trust of intelligent systems.
+Hi! I'm a third-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and explainable AI. More specifically, I enjoy investigating methods to help people build appropriate trust of intelligent systems and work within the limits of these systems.
 
 Email: radensky **at** cs **dot** washington **dot** edu
 
