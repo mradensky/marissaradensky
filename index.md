@@ -17,9 +17,9 @@ Email: radensky **at** cs **dot** washington **dot** edu
 • [The Story in the Notebook:  Exploratory Data Science using a Literate Programming Tool](https://marybethkery.com/projects/Verdant/Kery-The-Story-in-the-Notebook-Exploratory-Data-Science-using-a-Literate-Programming-Tool.pdf)
 <br /> Mary Beth Kery, **Marissa Radensky**, Mahima Arya, Bonnie E. John, and Brad A. Myers (CHI 2018)
 
-# Other Work
+# Other Papers and Extended Abstracts
 • [Exploring the Role of Local and Global Explanations in Recommender Systems](https://arxiv.org/pdf/2109.13301.pdf)
-<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (arXiv 2021)
+<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (To appear in CHI LBW 2022)
 
 • [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://arxiv.org/pdf/1909.00031.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell, and Brad A. Myers (IPA 2020 Workshop) 
