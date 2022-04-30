@@ -18,8 +18,11 @@ Email: radensky **at** cs **dot** washington **dot** edu
 <br /> Mary Beth Kery, **Marissa Radensky**, Mahima Arya, Bonnie E. John, and Brad A. Myers (CHI 2018)
 
 # Workshop Papers and Extended Abstracts
+• [Exploring How Anomalous Model Input and Output Alerts Affect Decision-Making in Healthcare](https://arxiv.org/pdf/2204.13194.pdf)
+<br /> **Marissa Radensky**, Dustin Burson, Rajya Bhaiya, and Daniel S. Weld (CHI 2022 Workshop on Trust and Reliance in AI-Human Teams)
+
 • [Exploring the Role of Local and Global Explanations in Recommender Systems](https://arxiv.org/pdf/2109.13301.pdf)
-<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (To appear in CHI LBW 2022)
+<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (To appear in CHI 2022 Late-Breaking Work)
 
 • [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://arxiv.org/pdf/1909.00031.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell, and Brad A. Myers (IPA 2020 Workshop) 
