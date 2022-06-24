@@ -5,7 +5,7 @@ Email: radensky **at** cs **dot** washington **dot** edu
 [CV](https://github.com/mradensky/research/raw/gh-pages/CV2021.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Currently
-• Research assistant at the University of Washington
+• Student researcher at Google
 
 # Publications
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
@@ -22,7 +22,7 @@ Email: radensky **at** cs **dot** washington **dot** edu
 <br /> **Marissa Radensky**, Dustin Burson, Rajya Bhaiya, and Daniel S. Weld (CHI 2022 Workshop on Trust and Reliance in AI-Human Teams)
 
 • [Exploring the Role of Local and Global Explanations in Recommender Systems](https://arxiv.org/pdf/2109.13301.pdf)
-<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (To appear in CHI 2022 Late-Breaking Work)
+<br /> **Marissa Radensky**, Doug Downey, Kyle Lo, Zoran Popović, and Daniel S. Weld (CHI 2022 Late-Breaking Work)
 
 • [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://arxiv.org/pdf/1909.00031.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell, and Brad A. Myers (IPA 2020 Workshop) 
