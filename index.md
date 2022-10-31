@@ -1,11 +1,11 @@
-Hi! I'm a third-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and explainable AI. More specifically, I enjoy investigating methods to help people more appropriately rely upon and trust intelligent systems as well as work within the limits of these systems.
+Hi! I'm a fourth-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and explainable AI. More specifically, I enjoy investigating methods to help people more appropriately rely upon and trust intelligent systems as well as work within the limits of these systems.
 
 Email: radensky **at** cs **dot** washington **dot** edu
 
 [CV](https://github.com/mradensky/research/raw/gh-pages/CV2021.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Currently
-• Student researcher at Google
+• Research assistant at the University of Washington
 
 # Publications
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
