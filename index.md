@@ -9,7 +9,7 @@ Email: radensky **at** cs **dot** washington **dot** edu
 
 # Publications
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
-<br /> Jason Portenoy, **Marissa Radensky**, Jevin West, Eric Horvitz, Daniel S. Weld, and Tom Hope (To appear in CHI 2022)
+<br /> Jason Portenoy, **Marissa Radensky**, Jevin West, Eric Horvitz, Daniel S. Weld, and Tom Hope (CHI 2022)
 
 • [PUMICE: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations](https://toby.li/files/Li_Pumice_UIST19.pdf)
 <br /> Toby Jia-Jun Li, **Marissa Radensky**, Justin Jia, Kirielle Singarajah, Tom M. Mitchell, and Brad A. Myers (UIST 2019)
