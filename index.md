@@ -2,10 +2,15 @@ Hi! I'm a fourth-year computer science PhD student at the University of Washingt
 
 Email: radensky **at** cs **dot** washington **dot** edu
 
-[CV](https://github.com/mradensky/research/raw/gh-pages/CV2021.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
+[CV](https://github.com/mradensky/research/raw/gh-pages/CV2023.pdf) ```|``` [LinkedIn](https://www.linkedin.com/in/marissa-radensky-51115a100/) ```|``` [Semantic Scholar](https://www.semanticscholar.org/author/40961666) ```|``` [Google Scholar](https://scholar.google.com/citations?user=YRCUN_UAAAAJ&hl=en&oi=ao)
 
 # Currently
 • Research assistant at the University of Washington
+
+# Previous Research Internships
+• Google (Summer 2022)
+• Microsoft(Summer 2021)
+• Allen Institute for AI (Summer 2020)
 
 # Publications
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
