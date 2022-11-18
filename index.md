@@ -9,7 +9,9 @@ Email: radensky **at** cs **dot** washington **dot** edu
 
 # Previous Research Internships
 • Google (Summer 2022)
+
 • Microsoft(Summer 2021)
+
 • Allen Institute for AI (Summer 2020)
 
 # Publications
