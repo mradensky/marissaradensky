@@ -16,7 +16,7 @@ Email: radensky@cs.washington.edu
 
 # Publications
 • [“I Think You Might Like This”: Exploring Effects of Confidence Signal Patterns on Trust in and Reliance on Conversational Recommender Systems]()
-<br /> **Marissa Radensky**, Julie Anne Se (To appear in FAccT 2023)
+<br /> **Marissa Radensky**, Julie Anne Séguin, Jang Soo Lim, Kristen Olson, Robert Geiger (To appear in FAccT 2023)
 
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
 <br /> Jason Portenoy, **Marissa Radensky**, Jevin West, Eric Horvitz, Daniel S. Weld, and Tom Hope (CHI 2022)
