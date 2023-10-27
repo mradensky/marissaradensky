@@ -1,4 +1,4 @@
-Hi! I'm a fourth-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and explainable AI. More specifically, I enjoy investigating methods to help people more appropriately rely upon and trust intelligent systems as well as work within the limits of these systems.
+Hi! I'm a fifth-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and AI transparency. More specifically, I enjoy investigating methods to help people more appropriately rely upon and trust intelligent systems as well as work within the limits of these systems.
 
 Email: radensky@cs.washington.edu
 
@@ -8,15 +8,15 @@ Email: radensky@cs.washington.edu
 • Research assistant at the University of Washington
 
 # Previous Research Internships
+• Allen Institute for AI (Summer 2023, Summer 2020)
+
 • Google (Summer 2022)
 
 • Microsoft (Summer 2021)
 
-• Allen Institute for AI (Summer 2020)
-
 # Publications
-• [“I Think You Might Like This”: Exploring Effects of Confidence Signal Patterns on Trust in and Reliance on Conversational Recommender Systems]()
-<br /> **Marissa Radensky**, Julie Anne Séguin, Jang Soo Lim, Kristen Olson, Robert Geiger (To appear in FAccT 2023)
+• [“I Think You Might Like This”: Exploring Effects of Confidence Signal Patterns on Trust in and Reliance on Conversational Recommender Systems](https://dl.acm.org/doi/10.1145/3593013.3594043)
+<br /> **Marissa Radensky**, Julie Anne Séguin, Jang Soo Lim, Kristen Olson, Robert Geiger (FAccT 2023)
 
 • [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://arxiv.org/pdf/2108.05669.pdf)
 <br /> Jason Portenoy, **Marissa Radensky**, Jevin West, Eric Horvitz, Daniel S. Weld, and Tom Hope (CHI 2022)
