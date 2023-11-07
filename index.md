@@ -1,4 +1,4 @@
-Hi! I'm a fifth-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research interests are in human-AI interaction and AI transparency. More specifically, I enjoy investigating methods to help people more appropriately rely upon and trust intelligent systems as well as work within the limits of these systems.
+Hi! I'm a fifth-year computer science PhD student at the University of Washington advised by [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). My research is in the area of human-AI interaction. More specifically, I enjoy investigating methods to support end users' verification and control of AI suggestions. Most often, I study these methods for applications to scientific communication and in the context of LLM-powered tools or recommender systems. 
 
 Email: radensky@cs.washington.edu
 
