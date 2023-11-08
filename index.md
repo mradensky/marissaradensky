@@ -15,6 +15,9 @@ Email: radensky@cs.washington.edu
 • Microsoft (Summer 2021)
 
 # Publications
+• [Let's Get to the Point: LLM-Supported Planning, Drafting, and Revising of Research-Paper Blog Posts]()
+<br /> **Marissa Radensky**, Daniel S. Weld, Joseph Chee Chang, Pao Siangliulue, Jonathan Bragg (In Submission)
+
 • [“I Think You Might Like This”: Exploring Effects of Confidence Signal Patterns on Trust in and Reliance on Conversational Recommender Systems](https://dl.acm.org/doi/10.1145/3593013.3594043)
 <br /> **Marissa Radensky**, Julie Anne Séguin, Jang Soo Lim, Kristen Olson, Robert Geiger (FAccT 2023)
 
